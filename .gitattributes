@@ -1,0 +1,6 @@
+# Text-based prototype assets for GitHub pull request diffs.
+*.svg text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.md text eol=lf

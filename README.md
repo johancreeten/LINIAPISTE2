@@ -28,3 +28,8 @@ Les sections utilisent des classes compatibles Gutenberg (`wp-section`, `wp-cont
 
 ## Points à adapter plus tard
 Vraies photos définitives, adresse, horaires, produits réels, ateliers réels, fiches parcours, intégration WooCommerce, paiements Stripe/Mollie, Google Maps, formulaires.
+
+## Note images
+Les images du prototype sont des SVG locaux textuels dans `assets/placeholders/`. Ce choix évite les blocages de demande d’extraction liés aux fichiers binaires tout en gardant des visuels visibles sur GitHub Pages.
+
+Pour la version finale, ces visuels pourront être remplacés par de vraies photos exportées en WebP/JPEG optimisé.
