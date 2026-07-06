@@ -19,6 +19,4 @@
     <circle cx="455" cy="315" r="28"/><circle cx="508" cy="342" r="20"/><circle cx="410" cy="372" r="18"/>
     <circle cx="1048" cy="410" r="24"/><circle cx="1102" cy="448" r="18"/><circle cx="998" cy="468" r="16"/>
   </g>
-  <text x="115" y="1040" font-family="Georgia, 'Times New Roman', serif" font-size="94" fill="#2F3033" opacity=".76">Parcours créatif</text>
-  <text x="120" y="1125" font-family="Arial, sans-serif" font-size="34" fill="#5D694B" opacity=".85">LINIA · Là où la création commence</text>
-</svg>
+  </svg>
